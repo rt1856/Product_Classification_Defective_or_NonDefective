@@ -1,0 +1,5 @@
+# This is a requirements file for a Python project.
+streamlit
+Pillow
+numpy
+
